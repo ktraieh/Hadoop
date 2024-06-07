@@ -1,6 +1,6 @@
 # Hadoop
 
-1. Make a working directory, somewhere
+1. Making a working directory
 
 ```
 mkdir running-hadoop
@@ -15,8 +15,6 @@ cd docker-hadoop
 ```
 
 3. Test Docker 
-
-I didn't have my Docker running and had to start it.
 
 ```
 docker run hello-world
